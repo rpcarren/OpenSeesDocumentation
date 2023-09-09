@@ -34,6 +34,7 @@ The following subsections contain information about **$matType**
       uniaxialMaterials/UVCuniaxial
       uniaxialMaterials/SteelFractureDI
       uniaxialMaterials/DuctileFracture
+      uniaxialMaterials/SteelDRC
 
 
 #. Concrete Materials
